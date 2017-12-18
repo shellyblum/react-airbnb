@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css?family=Griffy|Yanone+Kaffeesatz:400,700');
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.map {
+  width: 80%;
+  height: 500px;
+}
+.main{
+   height: 70vh; 
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 5s linear;
+  height: 80px;
+  color: white;
+}
+
+.jumbotron.hero-spacer img{
+  width: 4em;
+  height: 160px;
+}
+
+/*.jumbotron.hero-spacer {
+  background-color: white;
+}*/
+
+.jumbotron.hero-spacer h1 {
+  color: white;
+}
+
+.lacationImg {
+  height: 200px;
+  width: 230px;
+}
+
+/*.btn {
+  background-color: #FF5A5F;
+}*/
+
+.inputNum {
+  width: 3em;
+}
+
+input :focus {
+  outline: 0;
+}
+
+button :active {
+  outline: 0;
+}
+
+.btn-group button {
+  border-radius: 6px;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+.notFound {
+  width: 100%;
+}
+
+.jumbotron {
+  background-image: url('https://s-media-cache-ak0.pinimg.com/originals/88/6c/11/886c11cc4e5d4b9c4871447c748f5466.jpg'); 
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-y: -200px;
+}
+
+.input-group {
+  color: white;
+}
+
+.bookingPage {
+  background-image: url('https://cdnd.icons8.com/wp-content/uploads/2015/06/Website-Under-Construction.jpg');
+  size: cover;
+  width: 80%;
+  height: 16em;
+}
+
+.lifecycle-image{
+	width: 30rem;
+	height: 30rem;
+}
+
+.btn {
+  background-color: white;
+}
+
+.btn.btn-primary a{
+  color: white;
+}
+
+.detailsImg {
+  width: 100%;
+  height: 26em;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+/*Generic CSS Classes*/
+.cap{text-transform: capitalize;}
+.mb20{margin-bottom:2rem}
+.mt20{margin-top:2rem}
+.fz35{font-size: 3.5rem}
+.fz30{font-size: 3rem}
+.fz25{font-size: 2.5rem}
+
+.hbox{ display: flex }
+.vbox{
+    display: flex;
+    flex-direction: column;
+}
+.space-between, .sb{ justify-content: space-between}
+.space-around, .sa{ justify-content: space-around}
+.align-items-center, .ai-center, .aic{align-items: center}
+.align-items-start, .ai-start, .ais {align-items: flex-start}
+.grow-1,.g1{flex-grow: 1;}
+.text-left,.tl{text-align: left}
+.dev{border:fuchsia 2px dashed}

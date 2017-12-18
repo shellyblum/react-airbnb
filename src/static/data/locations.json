@@ -1,0 +1,113 @@
+[
+  {
+    "id": 1,
+    "name": "Bowman",
+    "countryId": 1,
+    "cityId": 1,
+    "imageUrl": "https://a0.muscache.com/im/pictures/e3119db9-509e-42ee-b24b-fb684394d371.jpg",
+    "price": "$824.18",
+    "lat": "36.02866",
+    "long": "70.77258",
+    "maxGuests": 5,
+    "reviews": [
+      {}
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Sutteridge",
+    "countryId": 2,
+    "cityId": 2,
+    "imageUrl": "https://a0.muscache.com/im/pictures/43604866/c0178837_original.jpg?aki_policy=xx_large",
+    "price": "$234.28",
+    "lat": "-5.28333",
+    "long": "-76.28333",
+    "maxGuests": 4,
+    "reviews": [
+      {}
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Superior",
+    "countryId": 3,
+    "cityId": 3,
+    "imageUrl": "https://a0.muscache.com/im/pictures/32939258/5718711c_original.jpg?aki_policy=xx_large",
+    "price": "$965.09",
+    "lat": "-27.42573",
+    "long": "29.16585",
+    "maxGuests": 6,
+    "reviews": [
+      {}
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Judy",
+    "countryId": 4,
+    "cityId": 4,
+    "imageUrl": "https://a0.muscache.com/im/pictures/15273358/d7329e9a_original.jpg?aki_policy=xx_large",
+    "price": "$434.88",
+    "lat": "37.0629",
+    "long": "10.11829",
+    "maxGuests": 12,
+    "reviews": [
+      {}
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Clemons",
+    "countryId": 5,
+    "cityId": 5,
+    "imageUrl": "https://a0.muscache.com/im/pictures/c60bf708-55c7-4a19-a327-51d75db41390.jpg?aki_policy=xx_large",
+    "price": "$187.42",
+    "lat": "30.12932",
+    "long": "121.2371",
+    "maxGuests": 5,
+    "reviews": [
+      {}
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Mallard",
+    "countryId": 6,
+    "cityId": 6,
+    "imageUrl": "https://a0.muscache.com/im/pictures/21162888/5a0f1151_original.jpg?aki_policy=xx_large",
+    "price": "$278.74",
+    "lat": "35.48199",
+    "long": "137.02166",
+    "maxGuests": 8,
+    "reviews": [
+      {}
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Sullivan",
+    "countryId": 7,
+    "cityId": 7,
+    "imageUrl": "https://a0.muscache.com/im/pictures/10026520/717f5adc_original.jpg?aki_policy=xx_large",
+    "price": "$277.47",
+    "lat": "15.26453",
+    "long": "104.39769",
+    "maxGuests": 1,
+    "reviews": [
+      {}
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Sunnyside",
+    "countryId": 8,
+    "cityId": 8,
+    "imageUrl": "https://a0.muscache.com/im/pictures/52464390/092fafb1_original.jpg?aki_policy=xx_large",
+    "price": "$925.96",
+    "lat": "29.82036",
+    "long": "121.29935",
+    "maxGuests": 10,
+    "reviews": [
+      {}
+    ]
+  }]
